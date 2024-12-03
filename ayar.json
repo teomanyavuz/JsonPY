@@ -1,0 +1,18 @@
+{
+  "icsAlt" : 3,
+  "icsUst" : 40,
+  "icnAlt" : 5,
+  "icnUst" : 80,
+  "dissAlt": 0,
+  "dissUst": 0,
+  "disnAlt": 0,
+  "disnUst": 0,
+  "topnAlt": 80,
+  "topnUst": 300,
+  "isikAlt": 0,
+  "isikUst": 0,
+  "co2Alt": 0,
+  "co2Ust": 200,
+  "email" : true,
+  "sms" : false
+}
